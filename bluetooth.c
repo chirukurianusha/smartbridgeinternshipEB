@@ -2,7 +2,7 @@
  * bluetooth.c
  *
  * Created: 16-May-19 11:24:18 AM
- * Author : ALEKHYA
+ * Author : Anusha
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
